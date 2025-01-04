@@ -19,3 +19,20 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+::-webkit-scrollbar {
+  width: 4px; /* Adjust the scrollbar width */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #2c2c3c; /* Slightly darker than background */
+  border-radius: 8px; /* Rounded edges for a cleaner look */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #1e1e2e; /* Match the dropdown background */
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2c2c3c #1e1e2e;
+}
