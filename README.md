@@ -35,7 +35,7 @@ An advanced, community-driven online code editor with support for multiple progr
 
 ## 🌐 Demo
 
-Access the live project: [Edit Ease](#) *(add link here)* ✨
+Access the live project: [Edit Ease](https://edit-ease-two.vercel.app) 
 
 ---
 
